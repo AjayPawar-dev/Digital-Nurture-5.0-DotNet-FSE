@@ -1,7 +1,7 @@
 # Module 1: Exercise 1 - Singleton Design Pattern
 
 ## 1. Problem Statement
-In many applications, we need a single shared resource, like a Logger or a Database Connection. Creating multiple instances of these objects wastes memory and can lead to inconsistent data. The goal is to implement a `Logger` class that ensures only **one instance** is created and shared across the entire application [3].
+In many applications, we need a single shared resource, like a Logger or a Database Connection. Creating multiple instances of these objects wastes memory and can lead to inconsistent data. The goal is to implement a `Logger` class that ensures only **one instance** is created and shared across the entire application .
 
 ## 2. Steps Performed
 1. **Private Constructor:** Created a `private Logger()` constructor to prevent other classes from using the `new` keyword to create extra instances.
@@ -13,7 +13,7 @@ In many applications, we need a single shared resource, like a Logger or a Datab
 The console should display a message confirming that "Both objects are the same instance" and show the log messages being processed by that single instance.
 
 ## 4. Conclusion
-The Singleton pattern provides a controlled, global point of access to a shared resource. This implementation ensures memory efficiency and centralized logging, which is a foundational engineering concept for robust software [3, 4].
+The Singleton pattern provides a controlled, global point of access to a shared resource. This implementation ensures memory efficiency and centralized logging, which is a foundational engineering concept for robust software .
 
 ## 5. Output (Screenshot)
 ![Execution Proof](./Screenshots/output.png)
