@@ -1,4 +1,4 @@
-# Module 3 - Exercise 1: Window Functions in SQL Server
+# Module 3 - Exercise 1: Ranking and Window Functions
 
 ## 1. Problem Statement
 
@@ -31,10 +31,10 @@ It also demonstrates how different ranking functions behave when duplicate value
 A table named `Products` is created to store product information.
 
 It contains the following fields:
-- ProductID (INT) ? Unique identifier for each product
-- ProductName (VARCHAR) ? Name of the product
-- Category (VARCHAR) ? Product category (e.g., Electronics, Accessories)
-- Price (DECIMAL) ? Price of the product
+- ProductID (INT) : Unique identifier for each product
+- ProductName (VARCHAR) : Name of the product
+- Category (VARCHAR) : Product category (e.g., Electronics, Accessories)
+- Price (DECIMAL) : Price of the product
 
 ---
 
