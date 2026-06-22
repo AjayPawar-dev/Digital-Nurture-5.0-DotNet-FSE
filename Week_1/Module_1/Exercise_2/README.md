@@ -76,4 +76,4 @@ The Factory Method Pattern was successfully implemented using C#. Different docu
 
 ## 5. Output Screenshot
 
-![Output Screenshot](./Screenshots/output.png
+![Output Screenshot](./Screenshots/output.png)
