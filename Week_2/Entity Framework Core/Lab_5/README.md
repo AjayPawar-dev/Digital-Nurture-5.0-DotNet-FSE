@@ -28,6 +28,7 @@ For this lab,I the used the **Program.cs** file to perform data retrieval operat
 Refer to **Lab 3** for the complete project structure and database setup.
 here is the idea for the same:
 
+```text
 RetailInventory
 │
 ├── Data
@@ -38,11 +39,12 @@ RetailInventory
 │   └── Category.cs
 │
 ├── Migrations
-│   ├── 20260627133245_InitialCreate.cs
-│   ├── 20260627133245_InitialCreate.Designer.cs
+│   ├── InitialCreate.cs
+│   ├── InitialCreate.Designer.cs
 │   └── AppDbContextModelSnapshot.cs
 │
-├── Program.cs (Updated code for lab 5 operations)
+├── Program.cs
+```
 
 ## Implementation Steps:
 
