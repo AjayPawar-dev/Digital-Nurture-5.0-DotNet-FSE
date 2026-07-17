@@ -1,0 +1,6 @@
+@EmployeeKafkaApi_HostAddress = http://localhost:5127
+
+GET {{EmployeeKafkaApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
