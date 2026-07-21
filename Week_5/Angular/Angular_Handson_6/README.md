@@ -286,43 +286,31 @@ providers:[
 ```
 
 Each NotificationComponent receives its own isolated service instance.
+## Output
 
-# Output
+### handson6_task1_course_service
 
-The application successfully demonstrates:
+![handson6_task1_course_service](Screenshots/handson6_task1_course_service.png)
 
-- Shared CourseService
-- Shared EnrollmentService
-- Singleton Service Pattern
-- Service-to-Service Injection
-- Component-Level Dependency Injection
-- Enroll / Unenroll functionality
-- Live Course Count
-- Shared Application State
-- Student Profile displaying enrolled courses
-
-# Output
-
-```
-handson6_task1_course_service.png
-```
 Shows:
 
 - Home Page
 - Total Courses Available
 - Course Summary Widget
 
-```
-handson6_task2_enrollment_service.png
-```
+### handson6_task2_enrollment_service
+
+![handson6_task2_enrollment_service](Screenshots/handson6_task2_enrollment_service.png)
+
 Shows:
 
 - Student Profile
 - Enrolled Courses
 
-```
-handson6_course_toggle.png
-```
+### handson6_course_toggle
+
+![handson6_course_toggle](Screenshots/handson6_course_toggle.png)
+
 Shows:
 
 - Course page
